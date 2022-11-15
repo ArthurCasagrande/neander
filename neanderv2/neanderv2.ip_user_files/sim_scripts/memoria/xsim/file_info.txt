@@ -1,0 +1,2 @@
+memoria.v,verilog,xil_defaultlib,../../../../neanderv2.srcs/sources_1/ip/memoria/sim/memoria.v,
+glbl.v,Verilog,xil_defaultlib,glbl.v
