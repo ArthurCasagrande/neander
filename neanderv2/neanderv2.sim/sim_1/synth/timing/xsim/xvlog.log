@@ -1,0 +1,15 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Arthur/Faculdade/2021.1/Sistemas_Digitais_para_Computadores_A/Projetos_Vivado/Neander/neanderv2/neanderv2.sim/sim_1/synth/timing/xsim/tb_neanderv2_time_synth.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module RAM256X1S_UNIQ_BASE_
+INFO: [VRFC 10-311] analyzing module RAM256X1S_HD22
+INFO: [VRFC 10-311] analyzing module RAM256X1S_HD23
+INFO: [VRFC 10-311] analyzing module RAM256X1S_HD24
+INFO: [VRFC 10-311] analyzing module RAM256X1S_HD25
+INFO: [VRFC 10-311] analyzing module RAM256X1S_HD26
+INFO: [VRFC 10-311] analyzing module RAM256X1S_HD27
+INFO: [VRFC 10-311] analyzing module RAM256X1S_HD28
+INFO: [VRFC 10-311] analyzing module memoria
+INFO: [VRFC 10-311] analyzing module neanderv2
+INFO: [VRFC 10-311] analyzing module memoria_dist_mem_gen_v8_0_12
+INFO: [VRFC 10-311] analyzing module memoria_dist_mem_gen_v8_0_12_synth
+INFO: [VRFC 10-311] analyzing module memoria_spram
+INFO: [VRFC 10-311] analyzing module glbl
